@@ -1,0 +1,31 @@
+// colors of logo
+87ceeb
+00a8f3
+024968
+
+
+// news
+
+my =
+4f38c41683ef408a8f3ec6f33ddea947
+
+other =
+4c24f63c14124976829a562d321675e4
+
+harry =
+dbe57b028aeb41e285a226a94865f7a7
+
+coding monk =
+6004b8fcb1604003b4ead57854e8d2c2
+
+shanjai raj =
+d3a68d3a93a54948a016a1553bc4d20c
+
+edy D =
+38b943e5c1ea4d2cb89a3ae390e644c4
+
+A Reddy =
+046d2e14e65b4d88acbaaa64c353139b
+
+codewithvishal =
+3da128da75bb4e819bb876090635ca8f
